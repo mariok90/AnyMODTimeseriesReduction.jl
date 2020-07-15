@@ -1,0 +1,13 @@
+name = "AnyMODTimeseriesReduction"
+uuid = "7f2d9933-73f4-4593-9559-c4646e6f92c5"
+authors = ["mak <mak@wip.tu-berlin.de> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
